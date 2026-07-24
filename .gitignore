@@ -13,3 +13,7 @@
 
 # Ignore log files
 *.log
+
+# Ignore environment variables
+.env
+.venv
